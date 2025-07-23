@@ -1,0 +1,2 @@
+# yapayzeka
+İGÜ MYO YAZ OKULU YAPAY ZEKA DERS NOTLARI
